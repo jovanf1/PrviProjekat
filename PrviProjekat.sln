@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A527BEBE-D52C-4023-81A7-238C371E6CFC}"
+	ProjectSection(SolutionItems) = preProject
+		Oglasi.dtd = Oglasi.dtd
+		Oglasi.xml = Oglasi.xml
+		Oglasi.xsd = Oglasi.xsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A203D3D-EF4B-40FB-8B89-625CE0D2387A}
+	EndGlobalSection
+EndGlobal

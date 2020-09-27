@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Oglasi SYSTEM "Oglasi.dtd">
+<?xml-stylesheet type ="text/xsl" href ="Oglasi.xslt"?>
+<Oglasi>
+  <Oglas id="0">
+    <Kategorija tip="automobili"></Kategorija>
+    <DatumIsteka>
+      <Dan></Dan>
+      <Mesec></Mesec>
+      <Godina></Godina>
+    </DatumIsteka>
+    <Cena valuta="din">
+      <Iznos>1200</Iznos>
+    </Cena>
+    <Tekst></Tekst>
+    <Tag></Tag>
+    <Email tip="privatni"></Email>
+  </Oglas>
+  <Oglas id="1">
+    <Kategorija tip="automobili"></Kategorija>
+    <DatumIsteka>
+      <Dan></Dan>
+      <Mesec></Mesec>
+      <Godina></Godina>
+    </DatumIsteka>
+    <Cena valuta="eur">
+      <Iznos>890</Iznos>
+    </Cena>
+    <Tekst></Tekst>
+    <Tag></Tag>
+    <Email tip="sluzbeni"></Email>
+  </Oglas>
+</Oglasi>
+
